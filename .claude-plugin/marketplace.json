@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "crlf-tab-formatter": {
+      "description": "Auto-format code files to CRLF line endings and 4-space → Tab indentation after every edit.",
+      "source": {
+        "source": "github",
+        "repo": "Ortlinde/crlf-tab-formatter"
+      },
+      "strict": false
+    }
+  }
+}
